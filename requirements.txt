@@ -1,0 +1,12 @@
+IPython==9.1.0
+arviz==0.21.0
+corner==2.2.3
+dynesty==2.1.5
+matplotlib==3.10.1
+numpy==1.25.2
+pandas==2.2.3
+pymc==5.20.1
+pytensor==2.27.1
+scipy==1.15.2
+seaborn==0.13.2
+scikit-learn==1.6.1

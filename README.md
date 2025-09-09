@@ -4,7 +4,7 @@ This repository contains notebooks and exercises exploring machine learning meth
 
 ## Repository Structure
 
-    machinelearning4physics_bicocca_2025_solutions/
+    machinelearningforastronomy/
     ├── Exercises/                                                     # Lecture exercises
     │   ├── datasets/                                                  # Datasets used
     │   ├── MontyHall.ipynb                                            # -> Probability theory

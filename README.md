@@ -5,19 +5,18 @@ This repository contains notebooks and exercises exploring machine learning meth
 ## Repository Structure
 
     machinelearning4physics_bicocca_2025_solutions/
-    ├── lectures/                       # Lecture exercises
-    │   ├── datasets/                   # Datasets used
-    │   ├── MontyHall.ipynb             # -> Probability theory
-    │   ├── BlackHoles.ipynb            # -> Sampling
-    │   ├── Exoplanets.ipynb            # -> Density estimation
-    │   ├── WeatherNDimBalls.ipynb      # -> Markov chains
-    │   ├── TimeTransients.ipynb        # -> MCMC
-    │   ├── HiggsBoson.ipynb            # -> Model selection
-    │   └── NestedSampling.ipynb        # -> Nested sampling
-    ├── project/                        # Project exam
-    │   ├── data/                       # Supernovae data
-    │   └── UniverseExpansion.ipynb     # Project file
-    └── README.md                       # Documentation
+    ├── Exercises/                                                     # Lecture exercises
+    │   ├── datasets/                                                  # Datasets used
+    │   ├── MontyHall.ipynb                                            # -> Probability theory
+    │   ├── BlackHoles.ipynb                                           # -> Sampling
+    │   ├── Exoplanets.ipynb                                           # -> Density estimation
+    │   ├── WeatherNDimBalls.ipynb                                     # -> Markov chains
+    │   ├── TimeTransients.ipynb                                       # -> MCMC
+    │   ├── HiggsBoson.ipynb                                           # -> Model selection
+    │   └── NestedSampling.ipynb                                       # -> Nested sampling
+    ├── Main project : Expansion of the Universe                       # Project exam
+    ├── Supernovae data
+    └── README.md                 
 
 ## Key Topics Covered
 - Probability Theory: Monty Hall problem, Bayesian reasoning
@@ -32,19 +31,6 @@ This repository contains notebooks and exercises exploring machine learning meth
 - Jupyter notebook
 - Libraries: `arviz`, `corner`, `dynesty`, `matplotlib`, `numpy`, `pandas`, `pymc`, `pytensor`, `scipy`, `seaborn`, `scikit-learn`
 
-You can install the required packages via:
 
-    pip install -r requirements.txt
 
-## Usage
-1. Clone the repository
 
-        git clone https://github.com/YiMingPan-Xv/ml4astronomy.git
-
-2. Navigate to the repository
-
-        cd ml4astronomy
-
-3. Launch Jupyter Notebook and open any notebook from the `lectures/` or `project/` folder:
-
-        jupyter notebook

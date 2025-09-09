@@ -1,4 +1,4 @@
-# Machine Learning for Physics and Astronomy
+# Machine Learning for Astronomy
 
 This repository contains notebooks and exercises exploring machine learning methods in physics and astronomy, with a strong focus on Bayesian inference. It includes both lecture exercises and a project on modeling the expansion of the universe.
 
